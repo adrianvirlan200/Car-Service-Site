@@ -1,0 +1,26 @@
+Insert(pe tabele)2p
+    1 x (works_performed)
+    2 x (employee)
+
+Update(pe tabele)2p
+    1 x (emplyee cand il fac ocupat)
+    2 x(la parts cand fac -1)
+
+Delete(pe tabele)2p
+    1 x(la angajati)
+    2 x(client)
+
+Interogari simple(cu JOIN)6p
+    1 x (caut angajatul care a facut lucrarea)
+    2 x (in main afisez toate lucrarile in desfasurare)
+    3 x (cand afisez clients)
+    4 x (cand afisez employee)
+    5 x (achievements)
+    6 x(achievements)
+
+
+Interogari complexe(cu subcereri)8p
+    1 x (selecteaza masinile care nu sunt acum in curs de reparatie)
+    2 x (cand adaug lucrarea noua si selectez stocul de piese in main)
+    3 x (in work archive)
+    4 
